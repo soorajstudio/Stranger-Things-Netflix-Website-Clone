@@ -22,14 +22,6 @@ html {
   background-repeat: no-repeat !important;
 }
 
-/* More About Netflix promo banner background */
-.eq269h80 {
-  background-image: url("../images/hero/netflix-promo-banner.svg") !important;
-  background-size: cover !important;
-  background-position: center !important;
-  background-repeat: no-repeat !important;
-}
-
 /* Selected plan card highlight */
 #lodp-plans button.nf-plan-selected {
   outline: 2px solid #e50914;
