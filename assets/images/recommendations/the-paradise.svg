@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 560" width="400" height="560">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#062822"/>
+      <stop offset="100%" stop-color="#03120f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="38%" r="55%">
+      <stop offset="0%" stop-color="#34d399" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#03120f" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="vignette" x1="0" y1="0.45" x2="0" y2="1">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.92"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="560" fill="url(#bg)"/>
+  <rect width="400" height="560" fill="url(#glow)"/>
+  <path d="M0 220 Q100 195 200 220 T400 220" fill="none" stroke="#34d399" stroke-width="2.5" stroke-opacity="0.5"/><path d="M0 248 Q100 223 200 248 T400 248" fill="none" stroke="#34d399" stroke-width="2.5" stroke-opacity="0.4"/><path d="M0 276 Q100 251 200 276 T400 276" fill="none" stroke="#34d399" stroke-width="2.5" stroke-opacity="0.3"/><path d="M0 304 Q100 279 200 304 T400 304" fill="none" stroke="#34d399" stroke-width="2.5" stroke-opacity="0.19999999999999996"/>
+  <rect width="400" height="560" fill="url(#vignette)"/>
+  <path d="M26 24h7l9 22V24h7v32h-7l-9-22v22h-7V24z" fill="#e50914"/>
+  <text x="58" y="45" fill="#d4d4d8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2.5">FILM</text>
+  <text x="24" y="485" fill="#ffffff" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="28" font-weight="800" letter-spacing="0.3">The Paradise</text>
+</svg>
